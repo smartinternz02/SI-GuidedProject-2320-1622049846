@@ -6,8 +6,8 @@ Flask,
 Dataset,
 Demonstration
 
-Are given in below drive link.
-:https://drive.google.com/drive/u/0/folders/15BLwROY4BAfOV-wpBTmgVghIb7BDHO3W
+Are given in below drive link:
+https://drive.google.com/drive/u/1/folders/1pCHaodkrPn3V62KYfM33NmdiUlw4Fmgz
 
 # Team Members:
 A.Sathvika
