@@ -4,7 +4,13 @@ In this project we have used Convolutional Neural Networks(CNN) to train a model
 # Project Related Files:
 Flask link,
 Dataset
-
-Demonstration is given in below drive link.
+Demonstration 
+Are given in below drive link.
 :https://drive.google.com/drive/u/0/folders/15BLwROY4BAfOV-wpBTmgVghIb7BDHO3W
 
+# Team Members:
+A.Sathvika
+B.Naga Satya ManiChandrika
+B.Sachin
+B.Bhargav reddy
+CH.Tulasi
