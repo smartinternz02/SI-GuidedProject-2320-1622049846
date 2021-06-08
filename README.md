@@ -9,7 +9,7 @@ Are given in below drive link.
 :https://drive.google.com/drive/u/0/folders/15BLwROY4BAfOV-wpBTmgVghIb7BDHO3W
 
 # Team Members:
-A.Sathvika
+# A.Sathvika
 B.Naga Satya ManiChandrika
 B.Sachin
 B.Bhargav reddy
