@@ -4,6 +4,7 @@ In this project we have used Convolutional Neural Networks(CNN) to train a model
 # Project Related Files:
 Flask,
 Dataset,
+Model file,
 Demonstration
 
 Are given in below drive link:
