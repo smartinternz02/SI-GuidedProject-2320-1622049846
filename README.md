@@ -6,9 +6,9 @@ Flask link: https://drive.google.com/file/d/17UP5hmlGrKVD9F0W_Y83JCWa-ciFh4z1/vi
 
 Dataset link: https://drive.google.com/file/d/1MwXBaWAwoKbQJ-aTfkjSDMQJ1B3hpvA4/view?usp=sharing
 
-Model file: https://drive.google.com/file/d/1ZEAjPpYphnXAsmnN91YwmdfX2G18H1f8/view?usp=sharing
+Model file link: https://drive.google.com/file/d/1ZEAjPpYphnXAsmnN91YwmdfX2G18H1f8/view?usp=sharing
 
-Demonstration: https://drive.google.com/file/d/1OMqQiGhjaKoQxCl75jqMQ9iI0GFYc1Cw/view?usp=sharing
+Demonstration link: https://drive.google.com/file/d/1OMqQiGhjaKoQxCl75jqMQ9iI0GFYc1Cw/view?usp=sharing
 
 # Team Members:
 A.Sathvika
